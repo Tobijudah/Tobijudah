@@ -1,4 +1,6 @@
 # Tobijudah
-Welcome,
+Hey Welcome 👋🏾
 Browse through my projects and feel free to contribute or fork any that catches your interest.  
-Stars are highly appreciated
+- 🛠 React, Typescript, SCSS.
+- 👯‍♀️ Looking on collaborate on Creative & Interactive websites.
+- ⭐ Stars are highly appreciated
