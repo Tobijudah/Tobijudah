@@ -1,5 +1,4 @@
-# Tobijudah
-Welcome.  
+Welcome homo sapien.  
 17, Front End only 🚫  
 Browse through my projects and feel free to contribute or fork any that catches your interest.  
   
