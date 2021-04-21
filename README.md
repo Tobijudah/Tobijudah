@@ -6,3 +6,4 @@ Browse through my projects and feel free to contribute or fork any that catches 
  ◾ Stars are highly appreciated  
  ◾ Learning 3D and Animation on the web  
  ◾ Looking to collaborate on Creative & Interactive websites  
+ ◾ Contributor [**@remotion**](https://github.com/JonnyBurger/remotion/)
