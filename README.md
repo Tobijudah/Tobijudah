@@ -1,9 +1,8 @@
 Welcome homo sapien.  
-17, Front End 🔺  
-Browse through my projects and feel free to contribute or fork any that catches your interest.  
+17, Front End 🔻   
+Browse through my projects and feel free to contribute or fork any that catches your interest. Stars are appreciated.  
   
  ◾ React, Typescript, SCSS  
- ◾ Stars are highly appreciated  
  ◾ Learning 3D and Animation on the web  
  ◾ Looking to collaborate on Creative & Interactive websites  
  ◾ Contributor [**@remotion**](https://github.com/JonnyBurger/remotion/)
