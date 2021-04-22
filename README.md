@@ -5,4 +5,5 @@ Browse through my projects and feel free to contribute or fork any that catches 
  ◾ React, Typescript, SCSS  
  ◾ Learning 3D and Animation on the web  
  ◾ Looking to collaborate on Creative & Interactive websites  
- ◾ Contributor [**@remotion**](https://github.com/JonnyBurger/remotion/)
+ 
+ ***bleh***
