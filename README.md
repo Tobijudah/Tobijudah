@@ -1,5 +1,5 @@
 Welcome homo sapien.  
-17, Front End 🔻   
+18, Front End 🔻   
 Browse through my projects and feel free to contribute or fork any that catches your interest. Stars are appreciated.  
   
  ◾ React, Typescript, SCSS  
